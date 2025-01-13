@@ -89,7 +89,7 @@ function App() {
               <a className="social-icon" target="_blank" href="https://twitter.com/">
                 <i className="fab fa-x"></i>
               </a>
-              <a className="social-icon" target="_blank" href="https://www.facebook.com/BilalSIddiqueOcial">
+              <a className="social-icon" target="_blank" href="https://www.facebook.com/BilalSIddiqueOfficial">
                 <i className="fab fa-facebook-f"></i>
               </a>
               <a className="social-icon" target="_blank" href="https://wa.me/923102097912" rel="noopener noreferrer">
